@@ -10,8 +10,8 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/ALI-INXIDE">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=28&duration=3000&color=00F5FF&center=true&vCenter=true&width=750&lines=⚡+Developer+|+Innovator+|+Cyber+Engineer;🚀+Bot+Creator+%26+Automation+Expert;💻+Welcome+to+ALI-INXIDE's+Digital+Universe!">
+  <a href="https://github.com/LAJUKI-EMPIRE">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=28&duration=3000&color=00F5FF&center=true&vCenter=true&width=750&lines=⚡+Developer+|+Innovator+|+Cyber+Engineer;🚀+Bot+Creator+%26+Automation+Expert;💻+Welcome+to+LAJUKI-EMPIRE's+Digital+Universe!">
   </a>
 </p>
 
@@ -53,7 +53,7 @@
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px"> GITHUB STATS
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ALI-INXIDE&theme=radical&hide_border=true" width="450"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=RAHUL-CHIMGAI&theme=radical&hide_border=true" width="450"/>
   <img src="https://github-readme-stats.vercel.app/api?username=LAJUKI-EMPIRE&show_icons=true&theme=radical&hide_border=true" width="450"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ALI-INXIDE&layout=compact&theme=radical&hide_border=true" width="375"/>
 </div>
@@ -73,18 +73,18 @@ _______________________
 ## 🌏 CONNECT WITH ME
 
 <p align="center">
-  <a href="https://github.com/ALI-INXIDE"><img src="https://img.shields.io/badge/GitHub-LAJUKI--EMPIRE-181717?style=for-the-badge&logo=github" /></a>
-  <a href="https://t.me/ALI_INXIDE"><img src="https://img.shields.io/badge/Telegram-ALI__INXIDE-0088cc?style=for-the-badge&logo=telegram" /></a>
-  <a href="mailto:aliinxide@gmail.com"><img src="https://img.shields.io/badge/Gmail-aliinxide%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://github.com/LAJUKI-EMPIRE"><img src="https://img.shields.io/badge/GitHub-LAJUKI--EMPIRE-181717?style=for-the-badge&logo=githuhttps://img.shields.io/badge/Gmail-das742811@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=whiteb" /></a>
+  <a href="https://t.me/LAJUKI_EMPIRE"><img src="https://img.shields.io/badge/Telegram-ALI__INXIDE-0088cc?style=for-the-badge&logo=telegram" /></a>
+  <a href="mailto.DAS742811@gmail.com"><img src="" /></a>
 </p>
 
 ---
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&color=00F5FF&size=22&center=true&vCenter=true&width=600&lines=👑+Building+Bots,+Breaking+Limits+👑;⚙️+Developed+with+Passion+by+ALI-INXIDE+⚙️">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&color=00F5FF&size=22&center=true&vCenter=true&width=600&lines=👑+Building+Bots,+Breaking+Limits+👑;⚙️+Developed+with+Passion+by+LAJUKI-+⚙️">
 </div>
 
-<img src="https://github.com/ALI-INXIDE/ALI-INXIDE/blob/main/assets/glow-line.gif" width="100%">
+<img src="https://github.com/LAJUKI-/LAJUKI EMPIRE-/blob/main/assets/glow-line.gif" width="100%">
 
 <p align="center">
   <b>✨ Thanks for visiting — Keep coding, keep evolving. ⚡</b>
