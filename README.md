@@ -74,7 +74,7 @@ _______________________
 
 <p align="center">
   <a href="https://github.com/LAJUKI-EMPIRE"><img src="https://img.shields.io/badge/GitHub-LAJUKI--EMPIRE-181717?style=for-the-badge&logo=githuhttps://img.shields.io/badge/Gmail-das742811@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=whiteb" /></a>
-  <a href="https://t.me/LAJUKI_EMPIRE"><img src="https://img.shields.io/badge/Telegram-ALI__INXIDE-0088cc?style=for-the-badge&logo=telegram" /></a>
+  <a href="https://t.me/LAJUKI_EMPIRE"><img src="https://img.shields.io/badge/Telegram-ARNAB__DAS-0088cc?style=for-the-badge&logo=telegram" /></a>
   <a href="mailto.DAS742811@gmail.com"><img src="" /></a>
 </p>
 
