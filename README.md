@@ -2,7 +2,7 @@
 
 <body>
   <center>
-<h1 align="center">WELCOME TO MY PROFILE 🎀</h1>
+<h1 align="center">LAJUKI LOVE BINDU ❤️ 🎀</h1>
 <br>
 
 <p align="center">
